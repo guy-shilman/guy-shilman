@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/324e9e5d-f6b5-47e4-825b-740d806f1d3b" title="Zephyr Technical Contributor"><img src="https://images.credly.com/images/a77b7f85-70b0-42ab-9519-67ee509fbc0c/image.png" alt="Zephyr Technical Contributor Certificate" width="100" height="100"></a>
+<!--END_SECTION:badges-->
+
 <!--
 **guy-shilman/guy-shilman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
